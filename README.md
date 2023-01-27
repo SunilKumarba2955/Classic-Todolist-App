@@ -5,6 +5,10 @@ A complete to-do list is a web application that allows users to create, manage a
 ![App Screenshot](https://raw.githubusercontent.com/SunilKumarba2955/Classic-Todolist-App/head/Photo.jpg)=600x500
 ![Alt text] (url "https://raw.githubusercontent.com/SunilKumarba2955/Classic-Todolist-App/head/Photo.jpg") =500x600
 
+<p align="center">
+  <img src="[https://github.com/waldyr/Sublime-Installer/blob/master/sublime_text.png?raw=true](https://raw.githubusercontent.com/SunilKumarba2955/Classic-Todolist-App/head/Photo.jpg)" alt="Screen Shot" width="700px" height="500px"/>
+</p>
+
 The application begins with a simple input field where the user can type in their task. The user can then add the task to the list by clicking on the "+" button or pressing the enter key. Once the task is added, it is displayed in a list format, along with a checkbox and a delete button. The user can then mark the task as completed by checking the checkbox or delete the task by clicking on the delete button.
 
 The application also has a feature to filter the tasks based on their completion status. The user can view all tasks, completed tasks or incomplete tasks by clicking on the respective buttons. The user can also clear all completed tasks by clicking on the "Clear Completed" button.
