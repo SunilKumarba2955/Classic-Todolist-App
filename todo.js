@@ -45,7 +45,7 @@ var TodoListApp = (function () {
     label.innerHTML = task.title;
 
     let img = document.createElement("img");
-    img.src = "/Images/bin.svg";
+    img.src = "./Images/bin.svg";
     img.setAttribute("data-id", task.id);
     img.className = "delete";
     img.alt = "delete";
