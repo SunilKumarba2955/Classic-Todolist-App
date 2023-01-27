@@ -19,8 +19,7 @@ A complete to-do list is a web application that allows users to create, manage a
 - CSS for styling
 
 # Screenshot
-
-![image alt text](Photo.jpg =250x250)
+![image alt text](https://raw.githubusercontent.com/SunilKumarba2955/Classic-Todolist-App/head/Photo.jpg)
 
 # Conclusion
 
