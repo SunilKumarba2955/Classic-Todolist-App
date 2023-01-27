@@ -2,7 +2,7 @@
 
 A complete to-do list is a web application that allows users to create, manage and track their daily tasks. The application is designed to be simple and easy to use, with a clean and intuitive user interface. The application is built using JavaScript, HTML, and CSS.
 
-![App Screenshot](https://raw.githubusercontent.com/SunilKumarba2955/Classic-Todolist-App/head/Photo.jpg)
+![App Screenshot](https://raw.githubusercontent.com/SunilKumarba2955/Classic-Todolist-App/head/Photo.jpg)=600x500
 
 The application begins with a simple input field where the user can type in their task. The user can then add the task to the list by clicking on the "+" button or pressing the enter key. Once the task is added, it is displayed in a list format, along with a checkbox and a delete button. The user can then mark the task as completed by checking the checkbox or delete the task by clicking on the delete button.
 
