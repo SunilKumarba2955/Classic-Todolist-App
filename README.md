@@ -10,7 +10,7 @@
   <img src="https://raw.githubusercontent.com/SunilKumarba2955/Classic-Todolist-App/head/Photo.jpg" alt="Screen Shot" width="700px" height="700px"/>
 </p>
 
-    The application begins with a simple input field where the user can type 
+The application begins with a simple input field where the user can type 
 in their task. The user can then add the task to the list by clicking on 
 the "+" button or pressing the enter key. Once the task is added, it is 
 displayed in a list format, along with a checkbox and a delete button. 
