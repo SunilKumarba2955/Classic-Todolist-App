@@ -39,12 +39,4 @@ for anyone who wants to stay organized and on top of their daily tasks.
 
 Note : As in the question strictly mentioned that use only Vanilla Javascript, 
 So I haven't used any Plugins or Libraries for java Script only. But I had used 
-Font awesome library for CSS not Javascript.#� �C�l�a�s�s�i�c�-�T�o�d�o�l�i�s�t�-�A�p�p�
-�
-�#� �C�l�a�s�s�i�c�-�T�o�d�o�l�i�s�t�-�A�p�p�
-�
-�#� �C�l�a�s�s�i�c�-�T�o�d�o�l�i�s�t�-�A�p�p�
-�
-�#� �C�l�a�s�s�i�c�-�T�o�d�o�l�i�s�t�-�A�p�p�
-�
-�
+Font awesome library for CSS not Javascript.
