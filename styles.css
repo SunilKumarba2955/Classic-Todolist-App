@@ -30,7 +30,7 @@ li {
 
 @font-face {
   font-family: 'Rushk';
-  src: url('/Fonts/TheSoulty\ Demo.otf') format('truetype');
+  src: url('./Fonts/TheSoulty\ Demo.otf') format('truetype');
 }
 
 li {
@@ -39,7 +39,7 @@ li {
 
 @font-face {
   font-family: 'Deguland Regular';
-  src: url('/Fonts/deguland.regular.ttf') format('truetype');
+  src: url('./Fonts/deguland.regular.ttf') format('truetype');
 }
 
 #task-list li label {
@@ -48,7 +48,7 @@ li {
 
 @font-face {
   font-family: 'Satisfy Regular';
-  src: url('/Fonts/satisfy.regular.ttf') format('truetype');
+  src: url('./Fonts/satisfy.regular.ttf') format('truetype');
 }
 
 .total-tasks span, .card-footer span{
@@ -57,7 +57,7 @@ li {
 
 @font-face {
   font-family: 'Mississauga Regular';
-  src: url('/Fonts/mississauga.regular.otf') format('truetype');
+  src: url('./Fonts/mississauga.regular.otf') format('truetype');
 }
 
 /* Heading h1 tag styles*/
